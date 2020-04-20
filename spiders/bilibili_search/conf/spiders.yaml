@@ -1,4 +1,4 @@
 bilibili_conf:
   headers:
-    Cookie: "INTVER=1; _uuid=DE792965-EEDF-4F5E-CD2E-35376F70F81F62450infoc; buvid3=AC663F41-8CF2-48DC-A3FF-B90A67D2086C155835infoc; LIVE_BUVID=AUTO9915825113457305; sid=cy5paw5s; DedeUserID=47741182; DedeUserID__ckMd5=a8d53381b6fbafe7; SESSDATA=27c22c36%2C1585103584%2Cc7181021; bili_jct=48f38048cbbc217b749b47c9d5941d2b; CURRENT_FNVAL=16"
+    Cookie: ""
     User-Agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'
